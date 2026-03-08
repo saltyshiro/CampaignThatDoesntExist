@@ -4,6 +4,7 @@ campaign_name:
 dm:
 system: D&D 5e
 status: Active
+title: Home
 ---
 # Welcome to {{campaign_name}}
 
@@ -25,7 +26,7 @@ status: Active
 | **Character**    | **Player** | **Race/Class**   | **Status** |
 | ---------------- | ---------- | ---------------- | ---------- |
 | [[Nieya Eirlys]] | Shiro      | Dhampir Sorcerer | Alive      |
-| [[Moros]]        | Def        | Reborn Warlock   | Alive      |
+| [[Moros Kritika]]        | Def        | Reborn Warlock   | Alive      |
 | [[]]             | Bel        | Witch            | Alive      |
 
 
